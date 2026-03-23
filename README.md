@@ -54,3 +54,5 @@ Design database tables for Patients, Doctors, Appointments, Bills, and Reports.
 
 
 # RESULT:
+
+To study the problem statement, SRS document and draw all the UML diagrams of a Hospital Management System was successful.
